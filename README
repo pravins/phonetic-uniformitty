@@ -1,0 +1,5 @@
+There are a number of phonetic keyboards available for Punjabi language. Every keyboard is designed to give the best typing experience to the user. But, this very effort broke or forked into several branches that user can not switch from one keyboard to other across different platforms once get used to one keyboard layout.
+
+Microsoft Windows being the most widely used platform around the globe has not given a phonetic keyboard by default in its OS. Thus a user has to download and install a third party keyboard application to continue with its phonetic style of typing. When a user go out searching for phonetic keyboard on net a variety of different applications show up and this experience is overwhelming. If someone select one keyboard and start using it, after some time it becomes difficult for the user to adapt another available phonetic keyboard because of its different layout design.
+
+This project is an effort to bring a uniformly accepted layout for the phonetic keyboard which will or tend to incorporate all the good features in phonetic keyboards available today.
